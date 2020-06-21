@@ -23,5 +23,5 @@ client.on('message', (receivedMessage) => {
 })
 
 
-const bot_secret_token = "NzI0MjUzNjI2NzU5MTE4ODg5.Xu9rkA.PPUianjqu0ESjTRKug30ZvkmmtM";
+const bot_secret_token = "YOUR TOKEN";
 client.login(bot_secret_token);
